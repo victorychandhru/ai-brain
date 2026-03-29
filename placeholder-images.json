@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "srishti-logo",
+      "description": "Minimalist AI Logo",
+      "imageUrl": "https://picsum.photos/seed/srishti/200/200",
+      "imageHint": "minimalist logo"
+    },
+    {
+      "id": "yuga-logo",
+      "description": "Corporate Foundation Logo",
+      "imageUrl": "https://picsum.photos/seed/yuga/200/200",
+      "imageHint": "corporate logo"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User Profile Avatar",
+      "imageUrl": "https://picsum.photos/seed/avatar/100/100",
+      "imageHint": "profile person"
+    }
+  ]
+}
